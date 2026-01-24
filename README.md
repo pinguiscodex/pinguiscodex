@@ -50,7 +50,7 @@ I mostly code in Python and web tech, but sometimes wander into other languages.
     <img src="https://img.shields.io/badge/GitHub-pinguiscodex-black?style=flat-square&logo=github" alt="GitHub" />
   </a>
   <a href="mailto:pengu@sky-network.org" target="_blank">
-    <img src="https://img.shields.io/badge/Email-pengu@sky-network.org-blue?style=flat-square&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Pengu-blue?style=flat-square&logo=gmail" alt="Email" />
   </a>
 </p>
 
