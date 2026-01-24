@@ -1,601 +1,168 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <title>Pengu Pixel Profile</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-  <!-- Pixel font (Press Start 2P or similar) -->
-  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet" />
-
-  <style>
-    :root {
-      --bg-color: #050812;
-      --bg-color-alt: #070b1a;
-      --text-color: #e5f3ff;
-      --accent: #6cf0ff;
-      --accent-2: #ff6cf5;
-      --card-border: #2a3550;
-      --shadow: #000000;
-    }
-
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    html, body {
-      height: 100%;
-    }
-
-    body {
-      font-family: "Press Start 2P", system-ui, sans-serif;
-      background: radial-gradient(circle at top, #141b3f 0, #050812 45%, #02030a 100%);
-      color: var(--text-color);
-      overflow-x: hidden;
-      position: relative;
-    }
-
-    /* Pixel snow canvas */
-    #snow-canvas {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      pointer-events: none;
-      z-index: 1;
-    }
-
-    .scanline {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background: repeating-linear-gradient(
-          to bottom,
-          rgba(255, 255, 255, 0.03) 0,
-          rgba(255, 255, 255, 0.03) 1px,
-          rgba(0, 0, 0, 0) 2px,
-          rgba(0, 0, 0, 0) 3px
-      );
-      mix-blend-mode: soft-light;
-      pointer-events: none;
-      z-index: 2;
-    }
-
-    .page-wrapper {
-      position: relative;
-      z-index: 3;
-      min-height: 100%;
-      padding: 32px 12px 48px;
-      display: flex;
-      justify-content: center;
-      align-items: flex-start;
-    }
-
-    .content {
-      max-width: 1000px;
-      width: 100%;
-      background: linear-gradient(135deg, rgba(5, 8, 18, 0.9), rgba(5, 12, 30, 0.98));
-      border: 3px solid var(--card-border);
-      box-shadow: 0 0 0 4px #000, 0 0 16px rgba(0, 0, 0, 0.8);
-      padding: 24px 18px 28px;
-      position: relative;
-    }
-
-    /* Pixel corners */
-    .content::before,
-    .content::after {
-      content: "";
-      position: absolute;
-      width: 16px;
-      height: 16px;
-      border: 3px solid var(--accent);
-    }
-    .content::before {
-      top: -3px;
-      left: -3px;
-      border-right: none;
-      border-bottom: none;
-    }
-    .content::after {
-      bottom: -3px;
-      right: -3px;
-      border-left: none;
-      border-top: none;
-    }
-
-    .glow-border {
-      position: absolute;
-      inset: 0;
-      border: 1px solid rgba(108, 240, 255, 0.2);
-      pointer-events: none;
-    }
-
-    header {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 16px;
-      align-items: center;
-      justify-content: space-between;
-      margin-bottom: 24px;
-    }
-
-    .title-block {
-      flex: 1 1 240px;
-    }
-
-    h1 {
-      font-size: 20px;
-      margin-bottom: 10px;
-      text-shadow: 2px 2px 0 #000, -1px -1px 0 #000;
-      color: var(--accent);
-    }
-
-    h2 {
-      font-size: 12px;
-      margin-bottom: 14px;
-      text-transform: uppercase;
-      letter-spacing: 1px;
-      color: var(--accent-2);
-    }
-
-    p {
-      font-size: 9px;
-      line-height: 1.6;
-      margin-bottom: 10px;
-    }
-
-    .penguin-wrapper {
-      flex: 0 0 auto;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      padding: 8px;
-      background: var(--bg-color-alt);
-      border: 2px solid var(--accent);
-      box-shadow: 0 0 0 3px #000;
-    }
-
-    .penguin-wrapper img {
-      image-rendering: pixelated;
-      max-height: 120px;
-    }
-
-    .badge-row {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-      align-items: center;
-      margin-bottom: 16px;
-    }
-
-    .badge-row img {
-      height: 22px;
-    }
-
-    .section {
-      border: 2px solid var(--card-border);
-      margin-bottom: 16px;
-      padding: 12px 10px;
-      background: linear-gradient(135deg, #050812 0, #071025 100%);
-      box-shadow: 3px 3px 0 #000;
-      position: relative;
-    }
-
-    .section::before {
-      content: "";
-      position: absolute;
-      left: 8px;
-      right: 8px;
-      top: 0;
-      height: 1px;
-      background: repeating-linear-gradient(
-        to right,
-        rgba(108, 240, 255, 0.25) 0,
-        rgba(108, 240, 255, 0.25) 4px,
-        transparent 4px,
-        transparent 8px
-      );
-      transform: translateY(-50%);
-    }
-
-    .section-header {
-      display: inline-block;
-      padding: 2px 6px;
-      background: #000;
-      border: 2px solid var(--accent-2);
-      font-size: 8px;
-      margin-bottom: 10px;
-    }
-
-    .about-layout {
-      display: grid;
-      grid-template-columns: minmax(0, 1.7fr) minmax(0, 1.3fr);
-      gap: 12px;
-      align-items: flex-start;
-    }
-
-    .about-text p:last-child {
-      margin-bottom: 0;
-    }
-
-    .about-ascii {
-      font-size: 7px;
-      line-height: 1.2;
-      white-space: pre;
-      color: #9bf2ff;
-      text-align: center;
-    }
-
-    .tags {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 4px;
-      margin-top: 6px;
-    }
-
-    .tag {
-      font-size: 7px;
-      padding: 2px 4px;
-      background: #000;
-      border: 1px solid var(--accent);
-    }
-
-    .lang-tools-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
-      gap: 10px;
-      margin-top: 8px;
-    }
-
-    .chip {
-      display: flex;
-      align-items: center;
-      gap: 6px;
-      padding: 6px 6px;
-      background: #02050f;
-      border: 1px solid #2b385a;
-      font-size: 8px;
-      box-shadow: 2px 2px 0 #000;
-    }
-
-    .chip img {
-      height: 18px;
-      image-rendering: pixelated;
-    }
-
-    .chip-code {
-      font-size: 7px;
-      color: #a7c7ff;
-    }
-
-    .stats-layout {
-      display: grid;
-      grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr);
-      gap: 12px;
-      align-items: stretch;
-    }
-
-    .stats-card {
-      background: #020712;
-      border: 1px solid #2b385a;
-      padding: 6px;
-      box-shadow: 2px 2px 0 #000;
-      display: flex;
-      flex-direction: column;
-      gap: 6px;
-    }
-
-    .stats-card-header {
-      font-size: 7px;
-      color: var(--accent);
-      margin-bottom: 4px;
-    }
-
-    .stats-card img {
-      width: 100%;
-      image-rendering: pixelated;
-    }
-
-    .stats-overlay {
-      font-size: 7px;
-      color: #cdd9ff;
-    }
-
-    .contacts-row {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
-      align-items: center;
-    }
-
-    .contact-btn {
-      display: inline-flex;
-      align-items: center;
-      gap: 6px;
-      padding: 4px 8px;
-      border: 2px solid var(--accent);
-      background: #000;
-      color: var(--text-color);
-      font-size: 8px;
-      text-decoration: none;
-      box-shadow: 2px 2px 0 #000;
-      transition: transform 0.12s steps(2), box-shadow 0.12s steps(2), background 0.12s steps(2);
-    }
-
-    .contact-btn:hover {
-      transform: translate(-2px, -2px);
-      box-shadow: 4px 4px 0 #000;
-      background: #050b1a;
-    }
-
-    .contact-btn img {
-      height: 14px;
-      image-rendering: pixelated;
-    }
-
-    footer {
-      margin-top: 12px;
-      text-align: center;
-      font-size: 8px;
-      opacity: 0.9;
-    }
-
-    .footer-line {
-      margin: 4px 0 6px;
-      font-size: 7px;
-      color: #8793c1;
-    }
-
-    @media (max-width: 720px) {
-      .page-wrapper {
-        padding: 16px 8px 28px;
-      }
-
-      header {
-        flex-direction: column;
-        align-items: flex-start;
-      }
-
-      .penguin-wrapper {
-        align-self: center;
-      }
-
-      .about-layout,
-      .stats-layout {
-        grid-template-columns: minmax(0, 1fr);
-      }
-
-      h1 {
-        font-size: 16px;
-      }
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pengu's Codex</title>
+    <style>
+        body {
+            font-family: 'Courier New', monospace;
+            background-color: #1a1a1a;
+            color: #00ff41;
+            margin: 0;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            border: 2px solid #00ff41;
+            padding: 20px;
+            background-color: #000;
+        }
+        h1 {
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        .subtitle {
+            text-align: center;
+            font-size: 1.2em;
+            margin-bottom: 30px;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        .penguin-art {
+            text-align: center;
+            font-family: monospace;
+            white-space: pre;
+            margin: 20px 0;
+        }
+        .languages {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-top: 20px;
+        }
+        .language-item {
+            border: 1px solid #00ff41;
+            padding: 10px;
+            text-align: center;
+        }
+        .stats {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            margin: 20px 0;
+        }
+        .stat-box {
+            border: 1px solid #00ff41;
+            padding: 10px;
+            margin: 5px;
+            min-width: 150px;
+        }
+        .connect {
+            text-align: center;
+            margin-top: 30px;
+        }
+        a {
+            color: #00ff41;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #00ff41;
+        }
+    </style>
 </head>
 <body>
-  <canvas id="snow-canvas"></canvas>
-  <div class="scanline"></div>
-
-  <div class="page-wrapper">
-    <div class="content">
-      <div class="glow-border"></div>
-
-      <header>
-        <div class="title-block">
-          <h1>Pengu</h1>
-          <p>I am a German student who codes for fun</p>
-
-          <div class="badge-row">
-            <img src="https://komarev.com/ghpvc/?username=pinguiscodex&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
-            <img src="https://img.shields.io/github/followers/pinguiscodex?label=Followers&style=flat-square&color=blueviolet" alt="Followers" />
-            <img src="https://img.shields.io/badge/Code-Lover-blue?style=flat-square&logo=github" alt="badge" />
-          </div>
-        </div>
-
-        <div class="penguin-wrapper">
-          <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAiIGhlaWdodD0iMTIwIiB2aWV3Qm94PSIwIDAgMTIwIDEyMCI+CiAgPHJlY3Qgd2lkdGg9IjEyMCIgaGVpZ2h0PSIxMjAiIGZpbGw9IiMwNTA4MTIiLz4KICA8cmVjdCB4PSIxNSIgeT0iMjAiIHdpZHRoPSI5MCIgaGVpZ2h0PSI4MCIgZmlsbD0iIzAwMDAwMCIvPgogIDxyZWN0IHg9IjIwIiB5PSIyNSIgd2lkdGg9IjgwIiBoZWlnaHQ9IjcwIiBmaWxsPSIjMDA5MEZGIi8+CiAgPHJlY3QgeD0iMjUiIHk9IjMwIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAiIGZpbGw9IiNmZmZmZmYiLz4KICA8cmVjdCB4PSI3NSIgeT0iMzAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgZmlsbD0iI2ZmZmZmZiIvPgogIDxyZWN0IHg9IjQwIiB5PSI1MCIgd2lkdGg9IjQwIiBoZWlnaHQ9IjIwIiBmaWxsPSIjZmY2Y2Y1Ii8+CiAgPHJlY3QgeD0iMzAiIHk9IjgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMTUiIGZpbGw9IiMwMDkwZmYiLz4KPC9zdmc+" alt="Pixel Penguin" />
-        </div>
-      </header>
-
-      <!-- About Me -->
-      <section class="section" id="about">
-        <div class="section-header">ABOUT</div>
-        <div class="about-layout">
-          <div class="about-text">
+    <div class="container">
+        <h1>PENGU</h1>
+        <div class="subtitle">I am a German student who codes for fun</div>
+        
+        <div class="section">
+            <h2>ABOUT</h2>
             <p>I'm Pengu — a hobby coder from Germany.</p>
             <p>I mostly code in Python and web tech, but sometimes wander into other languages.</p>
-
-            <div class="tags">
-              <div class="tag">PYTHON</div>
-              <div class="tag">WEB</div>
-              <div class="tag">GAMES</div>
-              <div class="tag">EXPERIMENTS</div>
-            </div>
-          </div>
-          <div class="about-ascii">
-            {  P E N G U  }<br />
-            ┌────────────┐<br />
-            │   _~_      │<br />
-            │  (o,o)     │<br />
-            │  /)  )     │<br />
-            │  \"  \"     │<br />
-            └────────────┘
-          </div>
         </div>
-      </section>
-
-      <!-- Languages & Tools -->
-      <section class="section" id="languages">
-        <div class="section-header">LANGUAGES &amp; TOOLS</div>
-
-        <div class="lang-tools-grid">
-          <div class="chip">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
-            <div>
-              <div>Python</div>
-              <div class="chip-code">print("🐧")</div>
-            </div>
-          </div>
-
-          <div class="chip">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
-            <div>
-              <div>HTML5</div>
-              <div class="chip-code">&lt;div class="pixel"&gt;</div>
-            </div>
-          </div>
-
-          <div class="chip">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" />
-            <div>
-              <div>CSS3</div>
-              <div class="chip-code">image-rendering: pixelated;</div>
-            </div>
-          </div>
-
-          <div class="chip">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
-            <div>
-              <div>JavaScript</div>
-              <div class="chip-code">const snow = [];</div>
-            </div>
-          </div>
-
-          <div class="chip">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" />
-            <div>
-              <div>PHP</div>
-              <div class="chip-code">&lt;?php echo "❄"; ?&gt;</div>
-            </div>
-          </div>
-
-          <div class="chip">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" />
-            <div>
-              <div>Kotlin</div>
-              <div class="chip-code">fun pengu() {}</div>
-            </div>
-          </div>
-
-          <div class="chip">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" />
-            <div>
-              <div>C#</div>
-              <div class="chip-code">Console.Write("⛄");</div>
-            </div>
-          </div>
-
-          <div class="chip">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="GDScript (Godot)" />
-            <div>
-              <div>Godot</div>
-              <div class="chip-code">extends Node2D</div>
-            </div>
-          </div>
+        
+        <div class="penguin-art">
+{ P E N G U }
+┌────────────┐
+│ _~_       │
+│ (o,o)     │
+│ //) )     │
+│ "" ""     │
+└────────────┘
         </div>
-      </section>
-
-      <!-- Stats Section -->
-      <section class="section" id="stats">
-        <div class="section-header">STATS</div>
-        <div class="stats-layout">
-          <div class="stats-card">
-            <div class="stats-card-header">GITHUB STATS</div>
-            <img src="https://github-readme-stats.vercel.app/api?username=pinguiscodex&theme=dark&hide_border=true&show_icons=true" alt="GitHub Stats" />
-          </div>
-          <div class="stats-card">
-            <div class="stats-card-header">LANGUAGES</div>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinguiscodex&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-          </div>
+        
+        <div class="section">
+            <h2>LANGUAGES & TOOLS</h2>
+            <div class="languages">
+                <div class="language-item">
+                    <strong>Python</strong><br>
+                    print("🐧")
+                </div>
+                <div class="language-item">
+                    <strong>HTML5</strong><br>
+                    &lt;div class="pixel"&gt;
+                </div>
+                <div class="language-item">
+                    <strong>CSS3</strong><br>
+                    image-rendering: pixelated;
+                </div>
+                <div class="language-item">
+                    <strong>JavaScript</strong><br>
+                    const snow = [];
+                </div>
+                <div class="language-item">
+                    <strong>PHP</strong><br>
+                    &lt;?php echo "❄"; ?&gt;
+                </div>
+                <div class="language-item">
+                    <strong>Kotlin</strong><br>
+                    fun pengu() {}
+                </div>
+                <div class="language-item">
+                    <strong>C#</strong><br>
+                    Console.Write("⛄");
+                </div>
+                <div class="language-item">
+                    <strong>Godot</strong><br>
+                    extends Node2D
+                </div>
+            </div>
         </div>
-      </section>
-
-      <!-- Contact -->
-      <section class="section" id="contact">
-        <div class="section-header">CONTACT</div>
-        <div class="contacts-row">
-          <a href="https://github.com/pinguiscodex" class="contact-btn">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" />
-            GitHub
-          </a>
-          <a href="#" class="contact-btn">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" />
-            Discord
-          </a>
-          <a href="#" class="contact-btn">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/email/email-outline.svg" alt="Email" />
-            Email
-          </a>
+        
+        <div class="section">
+            <h2>GITHUB STATS</h2>
+            <div class="stats">
+                <div class="stat-box">
+                    <strong>PIXEL STATS</strong><br>
+                    [ 0x01 ] Total commits, repos and XP rendered into pixel bars.
+                </div>
+                <div class="stat-box">
+                    <strong>PIXEL STREAK</strong><br>
+                    [ 0x02 ] Consecutive coding streak, like combo hits in an arcade game.
+                </div>
+            </div>
         </div>
-      </section>
-
-      <footer>
-        <div class="footer-line">Made with ❤️ and ❄️</div>
-        <div class="footer-line">© Pengu 2023-Present | All pixels accounted for</div>
-      </footer>
+        
+        <div class="connect">
+            <h2>CONNECT</h2>
+            <p><a href="#">GitHub</a> | <a href="#">Email</a></p>
+        </div>
+        
+        <div class="footer">
+            Thanks for stopping by — go check out my projects<br>
+            © Pengu • Crafted in pixels
+        </div>
     </div>
-  </div>
-
-  <script>
-    // Simple pixel snow effect
-    document.addEventListener('DOMContentLoaded', () => {
-      const canvas = document.getElementById('snow-canvas');
-      const ctx = canvas.getContext('2d');
-      
-      // Set canvas to full window size
-      function resizeCanvas() {
-        canvas.width = window.innerWidth;
-        canvas.height = window.innerHeight;
-      }
-      
-      resizeCanvas();
-      window.addEventListener('resize', resizeCanvas);
-      
-      // Create snowflakes
-      const snowflakes = [];
-      const numSnowflakes = 100;
-      
-      for (let i = 0; i < numSnowflakes; i++) {
-        snowflakes.push({
-          x: Math.random() * canvas.width,
-          y: Math.random() * canvas.height,
-          size: Math.random() * 2 + 1,
-          speed: Math.random() * 1 + 0.5,
-          drift: Math.random() * 2 - 1
-        });
-      }
-      
-      // Animation loop
-      function animate() {
-        ctx.clearRect(0, 0, canvas.width, canvas.height);
-        
-        // Draw and update snowflakes
-        ctx.fillStyle = '#6cf0ff';
-        for (let flake of snowflakes) {
-          ctx.beginPath();
-          ctx.arc(flake.x, flake.y, flake.size, 0, Math.PI * 2);
-          ctx.fill();
-          
-          // Update position
-          flake.y += flake.speed;
-          flake.x += flake.drift;
-          
-          // Reset if out of bounds
-          if (flake.y > canvas.height) {
-            flake.y = -10;
-            flake.x = Math.random() * canvas.width;
-          }
-        }
-        
-        requestAnimationFrame(animate);
-      }
-      
-      animate();
-    });
-  </script>
 </body>
 </html>
