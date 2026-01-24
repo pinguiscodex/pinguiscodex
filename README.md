@@ -1,6 +1,6 @@
 <!-- Pengu's GitHub Profile README -->
-<h1 align="center">Hey y’all 👋, I'm Pengu!</h1>
-<h3 align="center">🐧 Just a German student coding for fun — breaking stuff since day one 😅</h3>
+<h1 align="center">Pengu</h1>
+<h3 align="center">I am a German student who codes for fun</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pinguiscodex&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
@@ -10,17 +10,16 @@
 
 ---
 
-<h2 align="center">🧠 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center">
-I’m Pengu — a hobby coder from Germany who started coding out of curiosity and stayed for the chaos.  
+I’m Pengu — a hobby coder from Germany.
 I mostly code in Python and web tech, but sometimes wander into other languages.  
-Big fan of clean code... well, at least clean *after* it works 😎
 </p>
 
 ---
 
-<h2 align="center">💻 Languages & Tools</h2>
+<h2 align="center">Languages & Tools</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
@@ -35,7 +34,7 @@ Big fan of clean code... well, at least clean *after* it works 😎
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=pinguiscodex&show_icons=true&theme=tokyonight&hide_border=true" alt="pengu-stats" />
@@ -44,21 +43,19 @@ Big fan of clean code... well, at least clean *after* it works 😎
 
 ---
 
-<h2 align="center">🌎 Connect with Me</h2>
+<h2 align="center">Connect with Me</h2>
 
 <p align="center">
   <a href="https://github.com/pinguiscodex" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-pinguiscodex-black?style=flat-square&logo=github" alt="GitHub" />
   </a>
-  <a href="mailto:pinguiscodex@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Pengu-blue?style=flat-square&logo=gmail" alt="Email" />
+  <a href="mailto:pengu@sky-network.org" target="_blank">
+    <img src="https://img.shields.io/badge/Email-pengu@sky-network.org-blue?style=flat-square&logo=gmail" alt="Email" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-💬 Coding is like cooking 🔥 — sometimes delicious, sometimes catastrophic, but always fun!  
-<br>
-<i>Thanks for stopping by — now go make something awesome 🚀</i>
+<i>Thanks for stopping by — go check out my projects</i>
 </p>
