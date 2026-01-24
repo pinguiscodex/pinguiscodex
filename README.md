@@ -1,39 +1,17 @@
-<h1 align="center">Pengu's Profile</h1>
-
 <div align="center">
-  <p>I am a German student who codes for fun</p>
-  
-  <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel-penguin.gif" width="120" alt="Pixel Penguin" />
-</div>
 
-<br />
+<h1>Pengu</h1>
+<h3>I am a German student who codes for fun</h3>
 
-<div align="center">
-  <h2>View My Profile Page</h2>
-  <p>Below is my interactive profile page hosted on sky-network.org</p>
-</div>
+<iframe 
+  src="https://pinguiscodex.github.io/pixel-profile/" 
+  width="100%" 
+  height="850px" 
+  title="Pengu's Pixel Profile" 
+  sandbox="allow-scripts allow-same-origin"
+  style="border: 3px solid #2a3550; border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.5); max-width: 1000px;"
+></iframe>
 
-<br />
+<p><i>✨ Thanks for stopping by — pixel snow loading above! ✨</i></p>
 
-<div align="center">
-  <iframe 
-    src="https://sky-network.org/pinguiscodex/index.html" 
-    width="100%" 
-    height="800px" 
-    style="border:2px solid #00ff41; border-radius: 8px; background:#000;"
-    title="Pengu's Profile Page"
-  ></iframe>
-</div>
-
-<br />
-
-<div align="center">
-  <p><a href="https://sky-network.org/pinguiscodex/index.html" target="_blank">View Full Page</a></p>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pinguiscodex&label=Profile%20Views&color=green&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/pinguiscodex?label=Followers&style=flat-square&color=green" alt="Followers" />
 </div>
