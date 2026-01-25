@@ -24,21 +24,21 @@
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_controller.png" width="25" height="25" alt="Controller Icon"> A Bit About Me
+## <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/gaming.svg" width="25" height="25" alt="Gaming Icon"> A Bit About Me
 
-I'm a passionate German student from Leipzig, Sachsen, who codes for fun and turns ideas into reality! <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_idle.gif" width="40" height="40" alt="Idle Penguin Icon">
+I'm a passionate German student from Leipzig, Sachsen, who codes for fun and turns ideas into reality! <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/flag.svg" width="25" height="25" alt="Flag Icon">
 
-- <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_telescope.png" width="25" height="25" alt="Telescope Icon"> Currently exploring the depths of Python and web development
-- <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_seedling.png" width="25" height="25" alt="Seedling Icon"> Learning more about game development and expanding my skills
-- <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_house.png" width="25" height="25" alt="House Icon"> Based in Leipzig, Germany
-- <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_chat.png" width="25" height="25" alt="Chat Icon"> Ask me about Python, web development, or gaming projects
-- <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_email.png" width="25" height="25" alt="Email Icon"> Reach out: [pengu@sky-network.org](mailto:pengu@sky-network.org)
+- <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/search-solid.svg" width="25" height="25" alt="Search Icon"> Currently exploring the depths of Python and web development
+- <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/seedlings-solid.svg" width="25" height="25" alt="Seedling Icon"> Learning more about game development and expanding my skills
+- <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/home-solid.svg" width="25" height="25" alt="Home Icon"> Based in Leipzig, Germany
+- <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/chat-solid.svg" width="25" height="25" alt="Chat Icon"> Ask me about Python, web development, or gaming projects
+- <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/email-solid.svg" width="25" height="25" alt="Email Icon"> Reach out: [pengu@sky-network.org](mailto:pengu@sky-network.org)
 
 </div>
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_tools.png" width="25" height="25" alt="Tools Icon"> Languages & Tools
+## <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/code-solid.svg" width="25" height="25" alt="Code Icon"> Languages & Tools
 
 <table>
 <tr>
@@ -95,7 +95,7 @@ I'm a passionate German student from Leipzig, Sachsen, who codes for fun and tur
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_hammer.png" width="25" height="25" alt="Hammer Icon"> Professional Projects
+## <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/tools-solid.svg" width="25" height="25" alt="Tools Icon"> Professional Projects
 
 ### FullStack Web Developer for:
 <div>
@@ -120,13 +120,13 @@ I'm the SOLO FullStack Web Developer for these amazing Leipzig establishments, h
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_target.png" width="25" height="25" alt="Target Icon"> Current Focus & Interests
+## <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/science.svg" width="25" height="25" alt="Science Icon"> Current Focus & Interests
 
 - <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_walk.gif" width="40" height="40" alt="Walking Penguin Icon"> Deepening my Python expertise
-- <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_globe.png" width="25" height="25" alt="Globe Icon"> Building robust web applications
-- <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_gamepad.png" width="25" height="25" alt="Gamepad Icon"> Exploring game development with Godot
-- <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_wrench.png" width="25" height="25" alt="Wrench Icon"> Developing Minecraft plugins in Kotlin
-- <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_rocket.png" width="25" height="25" alt="Rocket Icon"> Creating unique digital experiences
+- <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/globe-americas.svg" width="25" height="25" alt="Globe Icon"> Building robust web applications
+- <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/gaming.svg" width="25" height="25" alt="Gamepad Icon"> Exploring game development with Godot
+- <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/tools-solid.svg" width="25" height="25" alt="Wrench Icon"> Developing Minecraft plugins in Kotlin
+- <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/rocket-solid.svg" width="25" height="25" alt="Rocket Icon"> Creating unique digital experiences
 
 </div>
 
@@ -136,7 +136,7 @@ I'm the SOLO FullStack Web Developer for these amazing Leipzig establishments, h
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_chart.png" width="25" height="25" alt="Chart Icon"> GitHub Stats
+## <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/chart-line-solid.svg" width="25" height="25" alt="Chart Icon"> GitHub Stats
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pinguiscodex&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -155,7 +155,7 @@ I'm the SOLO FullStack Web Developer for these amazing Leipzig establishments, h
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_palette.png" width="25" height="25" alt="Palette Icon"> Pixel Art Showcase
+## <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/palette-solid.svg" width="25" height="25" alt="Palette Icon"> Pixel Art Showcase
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_spinning.gif" alt="Spinning Pixel Penguin" width="150" height="150">
@@ -212,7 +212,7 @@ I'm the SOLO FullStack Web Developer for these amazing Leipzig establishments, h
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_handshake.png" width="25" height="25" alt="Handshake Icon"> Let's Connect & Collaborate
+## <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/handshake-solid.svg" width="25" height="25" alt="Handshake Icon"> Let's Connect & Collaborate
 
 <div>
 
@@ -221,7 +221,7 @@ I'm the SOLO FullStack Web Developer for these amazing Leipzig establishments, h
 
 </div>
 
-### <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_briefcase.png" width="25" height="25" alt="Briefcase Icon"> Looking to hire?
+### <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/briefcase-solid.svg" width="25" height="25" alt="Briefcase Icon"> Looking to hire?
 
 I'm available for freelance projects and collaborations! Whether you need a Python expert, web developer, or game development enthusiast, I'd love to hear about your project. Send me an email at [pengu@sky-network.org](mailto:pengu@sky-network.org) and let's create something amazing together!
 
@@ -233,7 +233,7 @@ I'm available for freelance projects and collaborations! Whether you need a Pyth
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_star.png" width="25" height="25" alt="Star Icon"> Featured Repositories
+## <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/star-solid.svg" width="25" height="25" alt="Star Icon"> Featured Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pinguiscodex&repo=pinguiscodex&theme=tokyonight)](https://github.com/pinguiscodex/pinguiscodex)
 
@@ -245,6 +245,6 @@ I'm available for freelance projects and collaborations! Whether you need a Pyth
 
 ---
 
-[<img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_heart.png" width="30" height="30" alt="Heart Icon"> View Credits](./CREDITS.md) | Made with <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_heart.png" width="30" height="30" alt="Heart Icon"> by Pengu | © 2026 Pinguiscodex
+[<img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/heart-solid.svg" width="30" height="30" alt="Heart Icon"> View Credits](./CREDITS.md) | Made with <img src="https://raw.githubusercontent.com/hackernoon/pixel-icon-library/main/icons/heart-solid.svg" width="30" height="30" alt="Heart Icon"> by Pengu | © 2026 Pinguiscodex
 
 </div>
