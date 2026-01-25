@@ -9,7 +9,9 @@
   <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin.png" width="30" height="30" alt="Penguin Icon">
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563EB&background=FFFFFF&width=435&lines=Python+Web+Developer;Game+Development+Enthusiast;Based+in+Leipzig%2C+Germany)](https://git.io/typing-svg)
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563EB&background=00000000&width=435&lines=Python+Web+Developer;Game+Development+Enthusiast;Based+in+Leipzig%2C+Germany)](https://git.io/typing-svg)
+</div>
 
 </div>
 
