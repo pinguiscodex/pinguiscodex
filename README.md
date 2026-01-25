@@ -5,8 +5,7 @@
 ### Welcome to my digital habitat!
 
 <div>
-  <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_hello.png" width="30" height="30" alt="Hello Icon">
-  <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin.png" width="30" height="30" alt="Penguin Icon">
+  <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_jump.gif" width="40" height="40" alt="Jumping Penguin Icon">
 </div>
 
 <p align="center">
@@ -27,7 +26,7 @@
 
 ## <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_controller.png" width="25" height="25" alt="Controller Icon"> A Bit About Me
 
-I'm a passionate German student from Leipzig, Sachsen, who codes for fun and turns ideas into reality! <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_flag.png" width="25" height="25" alt="Flag Icon">
+I'm a passionate German student from Leipzig, Sachsen, who codes for fun and turns ideas into reality! <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_idle.gif" width="25" height="25" alt="Idle Penguin Icon">
 
 - <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_telescope.png" width="25" height="25" alt="Telescope Icon"> Currently exploring the depths of Python and web development
 - <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_seedling.png" width="25" height="25" alt="Seedling Icon"> Learning more about game development and expanding my skills
@@ -123,7 +122,7 @@ I'm the SOLO FullStack Web Developer for these amazing Leipzig establishments, h
 
 ## <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_target.png" width="25" height="25" alt="Target Icon"> Current Focus & Interests
 
-- <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_snake.png" width="25" height="25" alt="Snake Icon"> Deepening my Python expertise
+- <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_walk.gif" width="25" height="25" alt="Walking Penguin Icon"> Deepening my Python expertise
 - <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_globe.png" width="25" height="25" alt="Globe Icon"> Building robust web applications
 - <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_gamepad.png" width="25" height="25" alt="Gamepad Icon"> Exploring game development with Godot
 - <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_wrench.png" width="25" height="25" alt="Wrench Icon"> Developing Minecraft plugins in Kotlin
@@ -159,13 +158,18 @@ I'm the SOLO FullStack Web Developer for these amazing Leipzig establishments, h
 ## <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_palette.png" width="25" height="25" alt="Palette Icon"> Pixel Art Showcase
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin.gif" alt="Pixel Penguin" width="100" height="100">
+  <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_spinning.gif" alt="Spinning Pixel Penguin" width="100" height="100">
 </div>
 
-*Note: To complete the pixel art theme, add these files to the `assets` folder:*
-- `pixel_penguin.gif` - Your pixel penguin animation
-- `pixel_hello.png` - Hello/wave icon
-- `pixel_penguin.png` - Static penguin icon
+*Note: Your assets folder already contains these pixel penguin GIFs:*
+
+**Available Pixel Penguin GIFs:**
+- `pixel_penguin_idle.gif` - Idle penguin animation
+- `pixel_penguin_jump.gif` - Jumping penguin animation (currently used as welcome icon)
+- `pixel_penguin_spinning.gif` - Spinning penguin animation (currently used in showcase)
+- `pixel_penguin_walk.gif` - Walking penguin animation (currently used for Python expertise)
+
+**Additional Icons (optional to add):**
 - `pixel_controller.png` - Controller/gamepad icon
 - `pixel_flag.png` - German flag icon
 - `pixel_telescope.png` - Telescope icon
@@ -176,7 +180,6 @@ I'm the SOLO FullStack Web Developer for these amazing Leipzig establishments, h
 - `pixel_tools.png` - Tools icon
 - `pixel_hammer.png` - Hammer/build icon
 - `pixel_target.png` - Target/aim icon
-- `pixel_snake.png` - Snake/python icon
 - `pixel_globe.png` - Globe/internet icon
 - `pixel_gamepad.png` - Game controller icon
 - `pixel_wrench.png` - Wrench/settings icon
@@ -228,6 +231,7 @@ I'm available for freelance projects and collaborations! Whether you need a Pyth
 <img src="https://user-images.githubusercontent.com/82187506/135794304-8f1e0a3a-8a9a-4a02-bb0d-1b1a1e5572d6.png" width="100%" height="5px" alt="Pixel Divider">
 
 ---
-Made with <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_heart.png" width="20" height="20" alt="Heart Icon"> by Pengu | © 2026 Pinguiscodex
+
+[<img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_heart.png" width="20" height="20" alt="Heart Icon"> View Credits](./CREDITS.md) | Made with <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_heart.png" width="20" height="20" alt="Heart Icon"> by Pengu | © 2026 Pinguiscodex
 
 </div>
