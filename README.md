@@ -191,6 +191,19 @@ I'm the SOLO FullStack Web Developer for these amazing Leipzig establishments, h
 - `pixel_star.png` - Star/featured icon
 - `pixel_heart.png` - Heart/love icon
 
+**Note:** This profile is designed to use HackerNoon's Pixel Icon Library (https://github.com/hackernoon/pixel-icon-library) for enhanced pixel-perfect icons. To implement these icons, you would need to use the following classes in an environment that supports the library's CSS:
+- Heart icon: `<i class="hn hn-heart-solid"></i>`
+- Globe icon: `<i class="hn hn-globe-americas"></i>`
+- Code icon: `<i class="hn hn-code-solid"></i>`
+- Flag icon: `<i class="hn hn-flag"></i>`
+- Science icon: `<i class="hn hn-science"></i>`
+- Seedling icon: `<i class="hn hn-seedlings-solid"></i>`
+- Home icon: `<i class="hn hn-home-solid"></i>`
+- Github icon: `<i class="hn hn-github"></i>`
+- Checkbox icon (checked): `<i class="hn hn-check-box-solid"></i>`
+- Gaming icon (controller): `<i class="hn hn-gaming"></i>`
+- Chart (growing) icon: `<i class="hn hn-chart-line-solid"></i>`
+
 </div>
 
 <div align="center">

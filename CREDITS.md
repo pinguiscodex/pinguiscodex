@@ -25,6 +25,19 @@ The original sprites have been adapted for use in this GitHub profile, including
 
 This project uses pixel penguin sprites originally created by Duckhive and made available for free use. For more amazing free game assets, visit [https://duckhive.itch.io/](https://duckhive.itch.io/).
 
+
+## Pixel Icon Library
+
+Some icons used in this repository are from:
+
+**Hacker Noon's Pixel Icon Library**
+
+- **Creator**: Hacker Noon
+- **Source**: [https://github.com/hackernoon/pixel-icon-library](https://github.com/hackernoon/pixel-icon-library)
+- **License**: MIT License
+
+The library provides a collection of pixel-perfect icons that complement the overall pixel art theme of this profile.
+
 ---
 
-Thank you to Duckhive for creating and sharing these wonderful pixel penguin sprites under a permissive license!
+Thank you to Duckhive for creating and sharing these wonderful pixel penguin sprites under a permissive license, and to Hacker Noon for the pixel icon library!
