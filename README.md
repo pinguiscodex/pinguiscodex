@@ -5,7 +5,7 @@
 ### Welcome to my digital habitat!
 
 <div>
-  <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_jump.gif" width="40" height="40" alt="Jumping Penguin Icon">
+  <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_jump.gif" width="80" height="80" alt="Jumping Penguin Icon">
 </div>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 ## <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_controller.png" width="25" height="25" alt="Controller Icon"> A Bit About Me
 
-I'm a passionate German student from Leipzig, Sachsen, who codes for fun and turns ideas into reality! <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_idle.gif" width="25" height="25" alt="Idle Penguin Icon">
+I'm a passionate German student from Leipzig, Sachsen, who codes for fun and turns ideas into reality! <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_idle.gif" width="40" height="40" alt="Idle Penguin Icon">
 
 - <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_telescope.png" width="25" height="25" alt="Telescope Icon"> Currently exploring the depths of Python and web development
 - <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_seedling.png" width="25" height="25" alt="Seedling Icon"> Learning more about game development and expanding my skills
@@ -122,7 +122,7 @@ I'm the SOLO FullStack Web Developer for these amazing Leipzig establishments, h
 
 ## <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_target.png" width="25" height="25" alt="Target Icon"> Current Focus & Interests
 
-- <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_walk.gif" width="25" height="25" alt="Walking Penguin Icon"> Deepening my Python expertise
+- <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_walk.gif" width="40" height="40" alt="Walking Penguin Icon"> Deepening my Python expertise
 - <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_globe.png" width="25" height="25" alt="Globe Icon"> Building robust web applications
 - <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_gamepad.png" width="25" height="25" alt="Gamepad Icon"> Exploring game development with Godot
 - <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_wrench.png" width="25" height="25" alt="Wrench Icon"> Developing Minecraft plugins in Kotlin
@@ -158,7 +158,7 @@ I'm the SOLO FullStack Web Developer for these amazing Leipzig establishments, h
 ## <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_palette.png" width="25" height="25" alt="Palette Icon"> Pixel Art Showcase
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_spinning.gif" alt="Spinning Pixel Penguin" width="100" height="100">
+  <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_spinning.gif" alt="Spinning Pixel Penguin" width="150" height="150">
 </div>
 
 *Note: Your assets folder already contains these pixel penguin GIFs:*
@@ -232,6 +232,6 @@ I'm available for freelance projects and collaborations! Whether you need a Pyth
 
 ---
 
-[<img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_heart.png" width="20" height="20" alt="Heart Icon"> View Credits](./CREDITS.md) | Made with <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_heart.png" width="20" height="20" alt="Heart Icon"> by Pengu | © 2026 Pinguiscodex
+[<img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_heart.png" width="30" height="30" alt="Heart Icon"> View Credits](./CREDITS.md) | Made with <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_heart.png" width="30" height="30" alt="Heart Icon"> by Pengu | © 2026 Pinguiscodex
 
 </div>
