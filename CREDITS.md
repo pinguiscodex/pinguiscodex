@@ -28,7 +28,7 @@ This project uses pixel penguin sprites originally created by Duckhive and made 
 
 ## Pixel Icon Library
 
-Some icons used in this repository are from:
+Previously, some icons in this repository referenced:
 
 **Hacker Noon's Pixel Icon Library**
 
@@ -36,7 +36,7 @@ Some icons used in this repository are from:
 - **Source**: [https://github.com/hackernoon/pixel-icon-library](https://github.com/hackernoon/pixel-icon-library)
 - **License**: MIT License
 
-The library provides a collection of pixel-perfect icons that complement the overall pixel art theme of this profile.
+However, to ensure consistent loading and reliability, the profile now uses local pixel penguin assets instead of external icon references.
 
 ---
 
