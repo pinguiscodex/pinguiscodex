@@ -1,250 +1,79 @@
-<div align="center">
+# Hey there! 👋
 
-# Hey there, I'm Pengu!
+I'm **pinguiscodex** — a Junior Full-Stack Developer from Leipzig, Saxony, Germany. I build and maintain web applications, love working with Linux, and spend a good chunk of my time contributing to open-source projects. Currently open to new opportunities and collaborations, so feel free to reach out!
 
-### Welcome to my digital habitat!
+---
 
-<div>
-  <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_jump.gif" width="80" height="80" alt="Jumping Penguin Icon">
-</div>
+## 🧑‍💻 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Python+Web+Developer;Game+Development+Enthusiast;Based+in+Leipzig%2C+Germany" alt="Typing SVG" />
+I'm the Lead (and sole) Full-Stack Developer maintaining two websites — one for a local restaurant here in Leipzig and another for a programming youth club that I look after in my free time. Outside of work, I'm a Linux enthusiast comfortable with both Debian and Arch-based systems (Kubuntu, Ubuntu, Kali, CachyOS). I enjoy setting up and maintaining web servers, tinkering with databases, and building things from the ground up.
+
+I'm also a strong believer in open-source software and community-driven development. Every project I put on GitHub is public and open source — because sharing knowledge and code is how we all get better.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![GDScript](https://img.shields.io/badge/-GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+> *Also explored **C++** and **C#** through coursework — still getting comfortable with them, but always learning.*
+
+---
+
+## 📂 Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **Restaurant Website** | Full-stack website for a local restaurant in Leipzig, Germany. Built and maintained from scratch. | _Coming soon_ |
+| **Youth Programming Club** | Website for a programming-focused youth club, developed and maintained in my free time. | _Coming soon_ |
+| **Open-Source Projects** | Various smaller tools, scripts, and experiments — all public, all open source. | [Explore my repos](https://github.com/pinguiscodex?tab=repositories) |
+
+---
+
+## 📊 Most Used Languages
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinguiscodex&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </p>
 
-</div>
+---
+
+## 🤝 Open Source & Collaboration
+
+I'm a firm believer that software should be shared. If you've got a project that catches my interest and I have the time, I'm always open to jumping in and collaborating. Don't hesitate to get in touch — worst case, we have a nice chat about code.
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/82187506/135794304-8f1e0a3a-8a9a-4a02-bb0d-1b1a1e5572d6.png" width="100%" height="5px" alt="Pixel Divider">
-</div>
+## 📬 Let's Connect
+
+| Contact | Details |
+|---------|---------|
+| 📧 **Email** | [pengu@sky-network.org](mailto:pengu@sky-network.org) |
+| 💬 **Discord** | `pinguiscodex` |
+| 🌐 **Website** | _Coming soon..._ |
 
 ---
 
-<div align="center">
-
-## <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_walk.gif" width="25" height="25" alt="Gaming Penguin Icon"> A Bit About Me
-
-I'm a passionate German student from Leipzig, Sachsen, who codes for fun and turns ideas into reality! <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_walk.gif" width="25" height="25" alt="Flag Penguin Icon">
-
-- <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_walk.gif" width="25" height="25" alt="Search Penguin Icon"> Currently exploring the depths of Python and web development
-- <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_walk.gif" width="25" height="25" alt="Seedling Penguin Icon"> Learning more about game development and expanding my skills
-- <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_walk.gif" width="25" height="25" alt="Home Penguin Icon"> Based in Leipzig, Germany
-- <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_walk.gif" width="25" height="25" alt="Chat Penguin Icon"> Ask me about Python, web development, or gaming projects
-- <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_walk.gif" width="25" height="25" alt="Email Penguin Icon"> Reach out: [pengu@sky-network.org](mailto:pengu@sky-network.org)
-
-</div>
-
-<div align="center">
-
-## <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_idle.gif" width="25" height="25" alt="Code Penguin Icon"> Languages & Tools
-
-<table>
-<tr>
-<td align="center" width="20%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
-  <br>Python<br><b>Favorite!</b>
-</td>
-<td align="center" width="20%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
-  <br>HTML
-</td>
-<td align="center" width="20%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
-  <br>CSS
-</td>
-<td align="center" width="20%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
-  <br>JavaScript
-</td>
-<td align="center" width="20%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60"/>
-  <br>PHP
-</td>
-</tr>
-<tr>
-<td align="center" width="20%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="60" height="60"/>
-  <br>GDScript
-</td>
-<td align="center" width="20%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/>
-  <br>Java
-</td>
-<td align="center" width="20%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="60" height="60"/>
-  <br>Kotlin
-</td>
-<td align="center" width="20%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60"/>
-  <br>C#
-</td>
-<td align="center" width="20%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpp/cpp-original.svg" width="60" height="60"/>
-  <br>C++
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/82187506/135794304-8f1e0a3a-8a9a-4a02-bb0d-1b1a1e5572d6.png" width="100%" height="5px" alt="Pixel Divider">
-</div>
-
-<div align="center">
-
-## <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_jump.gif" width="25" height="25" alt="Tools Penguin Icon"> Professional Projects
-
-### FullStack Web Developer for:
-<div>
-  <a href="https://kochbullen.de" target="_blank">
-    <img src="https://img.shields.io/badge/Kochbullen-Leipzig-orange?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgMThjLTQuNDEgMC04LTMuNTktOC04czMuNTktOCA4LTggOCAzLjU5IDggOC0zLjU5IDgtOCA4eiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjMiIGZpbGw9IiNmZmYiLz48L3N2Zz4=" />
-  </a>
-  <a href="https://villa-leipzig.de" target="_blank">
-    <img src="https://img.shields.io/badge/VILLA-Leipzig-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgMThjLTQuNDEgMC04LTMuNTktOC04czMuNTktOCA4LTggOCAzLjU5IDggOC0zLjU5IDgtOCA4eiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjMiIGZpbGw9IiNmZmYiLz48L3N2Zz4=" />
-  </a>
-  <a href="https://spielewerkstatt.villa-leipzig.de" target="_blank">
-    <img src="https://img.shields.io/badge/Spielewerkstatt-Jugendclub-green?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgMThjLTQuNDEgMC04LTMuNTktOC04czMuNTktOCA4LTggOCAzLjU5IDggOC0zLjU5IDgtOCA4eiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjMiIGZpbGw9IiNmZmYiLz48L3N2Zz4=" />
-  </a>
-</div>
-
-I'm the SOLO FullStack Web Developer for these amazing Leipzig establishments, handling both front and backend development!
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/82187506/135794304-8f1e0a3a-8a9a-4a02-bb0d-1b1a1e5572d6.png" width="100%" height="5px" alt="Pixel Divider">
-</div>
-
-<div align="center">
-
-## <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_spinning.gif" width="25" height="25" alt="Science Penguin Icon"> Current Focus & Interests
-
-- <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_walk.gif" width="40" height="40" alt="Walking Penguin Icon"> Deepening my Python expertise
-- <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_idle.gif" width="25" height="25" alt="Globe Penguin Icon"> Building robust web applications
-- <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_jump.gif" width="25" height="25" alt="Gamepad Penguin Icon"> Exploring game development with Godot
-- <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_walk.gif" width="25" height="25" alt="Wrench Penguin Icon"> Developing Minecraft plugins in Kotlin
-- <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_spinning.gif" width="25" height="25" alt="Rocket Penguin Icon"> Creating unique digital experiences
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/82187506/135794304-8f1e0a3a-8a9a-4a02-bb0d-1b1a1e5572d6.png" width="100%" height="5px" alt="Pixel Divider">
-</div>
-
-<div align="center">
-
-## <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_idle.gif" width="25" height="25" alt="Chart Penguin Icon"> GitHub Stats
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pinguiscodex&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinguiscodex&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pinguiscodex&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/82187506/135794304-8f1e0a3a-8a9a-4a02-bb0d-1b1a1e5572d6.png" width="100%" height="5px" alt="Pixel Divider">
-</div>
-
-<div align="center">
-
-## <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_spinning.gif" width="25" height="25" alt="Palette Penguin Icon"> Pixel Art Showcase
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_spinning.gif" alt="Spinning Pixel Penguin" width="150" height="150">
-</div>
-
-*Note: Your assets folder already contains these pixel penguin GIFs:*
-
-**Available Pixel Penguin GIFs:**
-- `pixel_penguin_idle.gif` - Idle penguin animation
-- `pixel_penguin_jump.gif` - Jumping penguin animation (currently used as welcome icon)
-- `pixel_penguin_spinning.gif` - Spinning penguin animation (currently used in showcase)
-- `pixel_penguin_walk.gif` - Walking penguin animation (currently used for Python expertise)
-
-**Additional Icons (optional to add):**
-- `pixel_controller.png` - Controller/gamepad icon
-- `pixel_flag.png` - German flag icon
-- `pixel_telescope.png` - Telescope icon
-- `pixel_seedling.png` - Seedling/growth icon
-- `pixel_house.png` - House/home icon
-- `pixel_chat.png` - Chat/speech bubble icon
-- `pixel_email.png` - Email/envelope icon
-- `pixel_tools.png` - Tools icon
-- `pixel_hammer.png` - Hammer/build icon
-- `pixel_target.png` - Target/aim icon
-- `pixel_globe.png` - Globe/internet icon
-- `pixel_gamepad.png` - Game controller icon
-- `pixel_wrench.png` - Wrench/settings icon
-- `pixel_rocket.png` - Rocket icon
-- `pixel_chart.png` - Chart/stats icon
-- `pixel_palette.png` - Palette/art icon
-- `pixel_handshake.png` - Handshake/connect icon
-- `pixel_briefcase.png` - Briefcase/hire icon
-- `pixel_star.png` - Star/featured icon
-- `pixel_heart.png` - Heart/love icon
-
-**Note:** This profile is designed to use HackerNoon's Pixel Icon Library (https://github.com/hackernoon/pixel-icon-library) for enhanced pixel-perfect icons. To implement these icons, you would need to use the following classes in an environment that supports the library's CSS:
-- Heart icon: `<i class="hn hn-heart-solid"></i>`
-- Globe icon: `<i class="hn hn-globe-americas"></i>`
-- Code icon: `<i class="hn hn-code-solid"></i>`
-- Flag icon: `<i class="hn hn-flag"></i>`
-- Science icon: `<i class="hn hn-science"></i>`
-- Seedling icon: `<i class="hn hn-seedlings-solid"></i>`
-- Home icon: `<i class="hn hn-home-solid"></i>`
-- Github icon: `<i class="hn hn-github"></i>`
-- Checkbox icon (checked): `<i class="hn hn-check-box-solid"></i>`
-- Gaming icon (controller): `<i class="hn hn-gaming"></i>`
-- Chart (growing) icon: `<i class="hn hn-chart-line-solid"></i>`
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/82187506/135794304-8f1e0a3a-8a9a-4a02-bb0d-1b1a1e5572d6.png" width="100%" height="5px" alt="Pixel Divider">
-</div>
-
-<div align="center">
-
-## <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_jump.gif" width="25" height="25" alt="Handshake Penguin Icon"> Let's Connect & Collaborate
-
-<div>
-
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:pengu@sky-network.org)](mailto:pengu@sky-network.org)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/pinguiscodex)](https://github.com/pinguiscodex)
-
-</div>
-
-### <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_idle.gif" width="25" height="25" alt="Briefcase Penguin Icon"> Looking to hire?
-
-I'm available for freelance projects and collaborations! Whether you need a Python expert, web developer, or game development enthusiast, I'd love to hear about your project. Send me an email at [pengu@sky-network.org](mailto:pengu@sky-network.org) and let's create something amazing together!
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/82187506/135794304-8f1e0a3a-8a9a-4a02-bb0d-1b1a1e5572d6.png" width="100%" height="5px" alt="Pixel Divider">
-</div>
-
-<div align="center">
-
-## <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_spinning.gif" width="25" height="25" alt="Star Penguin Icon"> Featured Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pinguiscodex&repo=pinguiscodex&theme=tokyonight)](https://github.com/pinguiscodex/pinguiscodex)
-
-</div>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/82187506/135794304-8f1e0a3a-8a9a-4a02-bb0d-1b1a1e5572d6.png" width="100%" height="5px" alt="Pixel Divider">
-
----
-
-[<img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_idle.gif" width="30" height="30" alt="Heart Penguin Icon"> View Credits](./CREDITS.md) | Made with <img src="https://raw.githubusercontent.com/pinguiscodex/pinguiscodex/main/assets/pixel_penguin_idle.gif" width="30" height="30" alt="Heart Penguin Icon"> by Pengu | © 2026 Pinguiscodex
-
-</div>
+<p align="center">Built with ☕ and a terminal. Thanks for stopping by!</p>
