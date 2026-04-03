@@ -1,10 +1,10 @@
-# Hey there! 👋
+# Hey there!
 
 I'm **pinguiscodex** — a Junior Full-Stack Developer from Leipzig, Saxony, Germany. I build and maintain web applications, love working with Linux, and spend a good chunk of my time contributing to open-source projects. Currently open to new opportunities and collaborations, so feel free to reach out!
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm the Lead (and sole) Full-Stack Developer maintaining two websites — one for a local restaurant here in Leipzig and another for a programming youth club that I look after in my free time. Outside of work, I'm a Linux enthusiast comfortable with both Debian and Arch-based systems (Kubuntu, Ubuntu, Kali, CachyOS). I enjoy setting up and maintaining web servers, tinkering with databases, and building things from the ground up.
 
@@ -12,7 +12,7 @@ I'm also a strong believer in open-source software and community-driven developm
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -42,7 +42,7 @@ I'm also a strong believer in open-source software and community-driven developm
 
 ---
 
-## 📂 Projects
+## Projects
 
 | Project | Description | Link |
 |---------|-------------|------|
@@ -52,28 +52,30 @@ I'm also a strong believer in open-source software and community-driven developm
 
 ---
 
-## 📊 Most Used Languages
+## Most Used Languages
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinguiscodex&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinguiscodex&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&count_private=true" alt="Top Languages" />
 </p>
+
+> **Note:** The `count_private=true` parameter includes languages from private repos. If the card doesn't load, it's likely a rate-limit issue on the public API. You can deploy your own free instance via Vercel — see [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
 
 ---
 
-## 🤝 Open Source & Collaboration
+## Open Source & Collaboration
 
 I'm a firm believer that software should be shared. If you've got a project that catches my interest and I have the time, I'm always open to jumping in and collaborating. Don't hesitate to get in touch — worst case, we have a nice chat about code.
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 | Contact | Details |
 |---------|---------|
-| 📧 **Email** | [pengu@sky-network.org](mailto:pengu@sky-network.org) |
-| 💬 **Discord** | `pinguiscodex` |
-| 🌐 **Website** | _Coming soon..._ |
+| **Email** | [pengu@sky-network.org](mailto:pengu@sky-network.org) |
+| **Discord** | `pinguiscodex` |
+| **Website** | _Coming soon..._ |
 
 ---
 
-<p align="center">Built with ☕ and a terminal. Thanks for stopping by!</p>
+<p align="center">Built with coffee and a terminal. Thanks for stopping by!</p>
