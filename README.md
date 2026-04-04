@@ -8,7 +8,21 @@ I'm **pinguiscodex** — a Junior Full-Stack Developer from Leipzig, Saxony, Ger
 
 I'm the Lead (and sole) Full-Stack Developer maintaining two websites — one for a local restaurant here in Leipzig and another for a programming youth club that I look after in my free time. Outside of work, I'm a Linux enthusiast comfortable with both Debian and Arch-based systems (Kubuntu, Ubuntu, Kali, CachyOS). I enjoy setting up and maintaining web servers, tinkering with databases, and building things from the ground up.
 
-I'm also a strong believer in open-source software and community-driven development. Every project I put on GitHub is public and open source — because sharing knowledge and code is how we all get better.
+I'm a practical problem-solver who enjoys turning ideas into working software. When a project catches my interest and I have the time, I'm always open to collaborating. Don't hesitate to get in touch — worst case, we have a nice chat about code.
+
+---
+
+## Available for Hire
+
+I'm currently looking for freelance and contract opportunities. If you need a developer who can take a project from idea to deployment, I can help with:
+
+- **Custom Websites** — Responsive, fast, and tailored to your business. From simple landing pages to complex web apps with user accounts, booking systems, or content management.
+- **Web Application Development** — Full-stack apps built with Python, PHP, JavaScript, and SQL. I handle both the front-end and back-end, including database design and server setup.
+- **Server Setup & Maintenance** — Linux-based web server configuration (Apache/Nginx), SSL, database administration (MySQL/MariaDB), and ongoing maintenance.
+- **Database Design & Optimization** — Schema design, query optimization, and migrations for MySQL, MariaDB, and SQLite.
+- **Open-Source Development** — Custom tools, scripts, and integrations. All code I write for clients can be delivered as open-source if desired.
+
+Whether you need a simple website for your business or a complex web application, I can take ownership of the entire development process — from planning and design to deployment and maintenance.
 
 ---
 
@@ -49,12 +63,6 @@ I'm also a strong believer in open-source software and community-driven developm
 | **Restaurant Website** | Full-stack website for a local restaurant in Leipzig, Germany. Built and maintained from scratch. | _Coming soon_ |
 | **Youth Programming Club** | Website for a programming-focused youth club, developed and maintained in my free time. | _Coming soon_ |
 | **Open-Source Projects** | Various smaller tools, scripts, and experiments — all public, all open source. | [Explore my repos](https://github.com/pinguiscodex?tab=repositories) |
-
----
-
-## Open Source & Collaboration
-
-I'm a firm believer that software should be shared. If you've got a project that catches my interest and I have the time, I'm always open to jumping in and collaborating. Don't hesitate to get in touch — worst case, we have a nice chat about code.
 
 ---
 
