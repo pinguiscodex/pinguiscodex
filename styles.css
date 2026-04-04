@@ -622,20 +622,8 @@ a:hover {
   line-height: 1.6;
 }
 
-.hire-box p:last-of-type {
-  margin-bottom: 0;
-}
-
 .hire-box strong {
   color: var(--text);
-}
-
-.hire-note {
-  font-size: 0.8rem;
-  color: var(--text-muted);
-  border-left: 2px solid var(--border);
-  padding-left: 0.75rem;
-  margin-bottom: 1rem;
 }
 
 /* ========== Contact ========== */
