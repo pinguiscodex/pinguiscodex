@@ -1,4 +1,0 @@
-# GitHub Pages — disable Jekyll processing
-# This file tells GitHub Pages to serve files as-is (no Markdown processing).
-# The portfolio is pure HTML/CSS/JS, so we don't need Jekyll.
-include: ['.well-known']
