@@ -44,11 +44,7 @@ I'm a practical problem-solver who enjoys turning ideas into working software. W
 
 ## Available for Hire
 
-I'm currently open to **freelance** and **Minijob** opportunities.
-
-> **Minijob (Germany):** Income capped at €603/month (averaged over the year). Statutory minimum wage: €13.90/hour.
-
-If you need a developer who can take a project from idea to deployment — custom websites, web apps, server setup, or database work — I'd love to hear from you. [Get in touch](#lets-connect) and let's build something together.
+I'm currently open to **freelance** and **Minijob** opportunities. If you need a developer who can take a project from idea to deployment — custom websites, web apps, server setup, or database work — I'd love to hear from you. [Get in touch](#lets-connect) and let's build something together.
 
 ---
 
