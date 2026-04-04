@@ -52,16 +52,6 @@ I'm also a strong believer in open-source software and community-driven developm
 
 ---
 
-## Most Used Languages
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinguiscodex&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&count_private=true" alt="Top Languages" />
-</p>
-
-> **Note:** The `count_private=true` parameter includes languages from private repos. If the card doesn't load, it's likely a rate-limit issue on the public API. You can deploy your own free instance via Vercel — see [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
-
----
-
 ## Open Source & Collaboration
 
 I'm a firm believer that software should be shared. If you've got a project that catches my interest and I have the time, I'm always open to jumping in and collaborating. Don't hesitate to get in touch — worst case, we have a nice chat about code.
