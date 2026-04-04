@@ -12,20 +12,6 @@ I'm a practical problem-solver who enjoys turning ideas into working software. W
 
 ---
 
-## Available for Hire
-
-I'm currently looking for freelance and contract opportunities. If you need a developer who can take a project from idea to deployment, I can help with:
-
-- **Custom Websites** — Responsive, fast, and tailored to your business. From simple landing pages to complex web apps with user accounts, booking systems, or content management.
-- **Web Application Development** — Full-stack apps built with Python, PHP, JavaScript, and SQL. I handle both the front-end and back-end, including database design and server setup.
-- **Server Setup & Maintenance** — Linux-based web server configuration (Apache/Nginx), SSL, database administration (MySQL/MariaDB), and ongoing maintenance.
-- **Database Design & Optimization** — Schema design, query optimization, and migrations for MySQL, MariaDB, and SQLite.
-- **Open-Source Development** — Custom tools, scripts, and integrations. All code I write for clients can be delivered as open-source if desired.
-
-Whether you need a simple website for your business or a complex web application, I can take ownership of the entire development process — from planning and design to deployment and maintenance.
-
----
-
 ## Tech Stack
 
 **Languages**
@@ -53,6 +39,12 @@ Whether you need a simple website for your business or a complex web application
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 > *Also explored **C++** and **C#** through coursework — still getting comfortable with them, but always learning.*
+
+---
+
+## Available for Hire
+
+I'm currently open to freelance and contract opportunities. If you need a developer who can take a project from idea to deployment — custom websites, web apps, server setup, or database work — I'd love to hear from you. [Get in touch](#lets-connect) and let's build something together.
 
 ---
 
