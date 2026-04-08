@@ -6,7 +6,7 @@ I'm **pinguiscodex** — a Junior Full-Stack Developer from Leipzig, Saxony, Ger
 
 ## About Me
 
-I'm the Lead (and sole) Full-Stack Developer maintaining two websites — one for a local restaurant here in Leipzig and another for a programming youth club that I look after in my free time. Outside of work, I'm a Linux enthusiast comfortable with both Debian and Arch-based systems (Kubuntu, Ubuntu, Kali, CachyOS). I enjoy setting up and maintaining web servers, tinkering with databases, and building things from the ground up.
+I'm the Lead (and sole) Full-Stack Developer maintaining two websites — one for **Die Kochbullen**, a restaurant here in Leipzig, and another for the **Spielewerkstatt**, a youth gaming workshop at the VILLA Leipzig that I look after in my free time. Outside of work, I'm a Linux enthusiast comfortable with both Debian and Arch-based systems (Kubuntu, Ubuntu, Kali, CachyOS). I enjoy setting up and maintaining web servers, tinkering with databases, and building things from the ground up.
 
 I'm a practical problem-solver who enjoys turning ideas into working software. When a project catches my interest and I have the time, I'm always open to collaborating. Don't hesitate to get in touch — worst case, we have a nice chat about code.
 
@@ -52,8 +52,8 @@ I'm currently open to **freelance** and **Minijob** opportunities. If you need a
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **Restaurant Website** | Full-stack website for a local restaurant in Leipzig, Germany. Built and maintained from scratch. | _Coming soon_ |
-| **Youth Programming Club** | Website for a programming-focused youth club, developed and maintained in my free time. | _Coming soon_ |
+| **Die Kochbullen** | Full-stack website for a restaurant in the Leipzig area. | [kochbullen.de](https://kochbullen.de) |
+| **Spielewerkstatt @ VILLA Leipzig** | Website for the Spielewerkstatt, a youth gaming workshop at the VILLA Leipzig. | [spielewerkstatt.dev](https://spielewerkstatt.dev) |
 | **Open-Source Projects** | Various smaller tools, scripts, and experiments — all public, all open source. | [Explore my repos](https://github.com/pinguiscodex?tab=repositories) |
 
 ---
