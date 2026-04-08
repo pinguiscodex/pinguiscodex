@@ -6,7 +6,11 @@ I'm **pinguiscodex** — a Junior Full-Stack Developer from Leipzig, Saxony, Ger
 
 ## About Me
 
+<<<<<<< Updated upstream
 I'm the Lead (and sole) Full-Stack Developer maintaining two websites — one for **Die Kochbullen**, a restaurant here in Leipzig, and another for the **Spielewerkstatt**, a youth gaming workshop at the VILLA Leipzig that I look after in my free time. Outside of work, I'm a Linux enthusiast comfortable with both Debian and Arch-based systems (Kubuntu, Ubuntu, Kali, CachyOS). I enjoy setting up and maintaining web servers, tinkering with databases, and building things from the ground up.
+=======
+I'm the Lead (and sole) Full-Stack Developer maintaining two websites — one for **Die Kochbullen**, a restaurant and hospitality group here in Leipzig, and another for the **Spielewerkstatt**, a youth gaming workshop at the VILLA Leipzig (Soziokulturelles Zentrum "Die VILLA") that I look after in my free time. Outside of work, I'm a Linux enthusiast comfortable with both Debian and Arch-based systems (Kubuntu, Ubuntu, Kali, CachyOS). I enjoy setting up and maintaining web servers, tinkering with databases, and building things from the ground up.
+>>>>>>> Stashed changes
 
 I'm a practical problem-solver who enjoys turning ideas into working software. When a project catches my interest and I have the time, I'm always open to collaborating. Don't hesitate to get in touch — worst case, we have a nice chat about code.
 
@@ -52,8 +56,13 @@ I'm currently open to **freelance** and **Minijob** opportunities. If you need a
 
 | Project | Description | Link |
 |---------|-------------|------|
+<<<<<<< Updated upstream
 | **Die Kochbullen** | Full-stack website for a restaurant in the Leipzig area. | [kochbullen.de](https://kochbullen.de) |
 | **Spielewerkstatt @ VILLA Leipzig** | Website for the Spielewerkstatt, a youth gaming workshop at the VILLA Leipzig. | [spielewerkstatt.dev](https://spielewerkstatt.dev) |
+=======
+| **Die Kochbullen** | Full-stack website for a restaurant and hospitality group in the Leipzig/Markkleeberg area. Operating at Ratskeller Markkleeberg and Golf-Inn by Golfpark Leipzig, featuring seasonal buffets (€39/person), event hosting, catering services, and a cooking school. Cuisine focuses on fresh, healthy, and hearty German fare with seasonal ingredients. Family-friendly atmosphere with large banquet halls, terraces, wine lounge, and live entertainment. | [kochbullen.de](https://kochbullen.de) |
+| **Spielewerkstatt @ VILLA Leipzig** | Website for the Spielewerkstatt, a youth gaming workshop at the Soziokulturelles Zentrum "Die VILLA" (Lessingstr. 7, 04109 Leipzig). Part of the JugendKulturKeller offering creative activities for children and youth interested in board games, console gaming, and computer gaming. Embedded in a larger cultural hub with makerspace, café, theater, music workshops, and various creative programs. | _Coming soon_ |
+>>>>>>> Stashed changes
 | **Open-Source Projects** | Various smaller tools, scripts, and experiments — all public, all open source. | [Explore my repos](https://github.com/pinguiscodex?tab=repositories) |
 
 ---
