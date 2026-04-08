@@ -64,7 +64,7 @@ I'm currently open to **freelance** and **Minijob** opportunities. If you need a
 |---------|---------|
 | **Email** | [pengu@sky-network.org](mailto:pengu@sky-network.org) |
 | **Discord** | `pinguiscodex` |
-| **Website** | _Coming soon..._ |
+| **Website** | [https://pinguiscodex.github.io/pinguiscodex/](https://pinguiscodex.github.io/pinguiscodex/) |
 
 ---
 
