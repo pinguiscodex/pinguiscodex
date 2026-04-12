@@ -1,0 +1,17 @@
+{
+    "recommendations": [
+        "ecmel.vscode-html-css",
+        "formulahendry.auto-rename-tag",
+        "vincaslt.highlight-matching-tag",
+        "ritwickdey.liveserver",
+        "sidthesloth.html5-boilerplate",
+        "codezombiech.gitignore",
+        "donjayamanne.githistory",
+        "eamodio.gitlens"
+    ],
+    "unwantedRecommendations": [
+        "ms-python.python",
+        "bmewburn.vscode-intelephense-client",
+        "charliermarsh.ruff"
+    ]
+}
