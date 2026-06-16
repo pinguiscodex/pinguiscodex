@@ -44,28 +44,13 @@ I'm a practical problem-solver who enjoys turning ideas into working software. W
 
 ## Available for Hire
 
-I'm currently open to **freelance** and **Minijob** opportunities. If you need a developer who can take a project from idea to deployment — custom websites, web apps, server setup, or database work — I'd love to hear from you. [Get in touch](#lets-connect) and let's build something together.
-
----
-
-## Projects
-
-| Project | Description | Link |
-|---------|-------------|------|
-| **Die Kochbullen** | Full-stack website for a restaurant in the Leipzig area. | [kochbullen.de](https://kochbullen.de) |
-| **Spielewerkstatt @ VILLA Leipzig** | Website for the Spielewerkstatt, a youth gaming workshop at the VILLA Leipzig. | [spielewerkstatt.dev](https://spielewerkstatt.dev) |
-| **Open-Source Projects** | Various smaller tools, scripts, and experiments — all public, all open source. | [Explore my repos](https://github.com/pinguiscodex?tab=repositories) |
+I'm currently open to freelance opportunities. If you need a developer who can take a project from idea to deployment — custom websites, web apps, server setup, or database work — I'd love to hear from you.
 
 ---
 
 ## Let's Connect
 
-| Contact | Details |
-|---------|---------|
-| **Email** | [pengu@sky-network.org](mailto:pengu@sky-network.org) |
-| **Discord** | `pinguiscodex` |
-| **Website** | [https://pinguiscodex.github.io/pinguiscodex/](https://pinguiscodex.github.io/pinguiscodex/) |
+**Email** [pengu@sky-network.org](mailto:pengu@sky-network.org)
+**Discord** `pinguiscodex`
 
 ---
-
-<p align="center">Built with coffee and a terminal. Thanks for stopping by!</p>
