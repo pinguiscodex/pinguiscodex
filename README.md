@@ -1,12 +1,12 @@
 # Hey there!
 
-I'm **pinguiscodex** — a Junior Full-Stack Developer from Leipzig, Saxony, Germany. I build and maintain web applications, love working with Linux, and spend a good chunk of my time contributing to open-source projects. Currently open to new opportunities and collaborations, so feel free to reach out!
+I'm **pinguiscodex** — a Junior Full-Stack Developer from Leipzig, Saxony, Germany. I build and maintain web applications, love working with Linux. Currently open to new opportunities and collaborations, so feel free to reach out!
 
 ---
 
 ## About Me
 
-I'm the Lead (and sole) Full-Stack Developer maintaining two websites — one for **Die Kochbullen**, a restaurant here in Leipzig, and another for the **Spielewerkstatt**, a youth gaming workshop at the VILLA Leipzig that I look after in my free time. Outside of work, I'm a Linux enthusiast comfortable with both Debian and Arch-based systems (Kubuntu, Ubuntu, Kali, CachyOS). I enjoy setting up and maintaining web servers, tinkering with databases, and building things from the ground up.
+I'm the Lead (and sole) Full-Stack Developer maintaining two websites — one for **Die Kochbullen**, a restaurant here in Leipzig, and another for the **Spielewerkstatt**, a youth gaming workshop at the VILLA Leipzig that I look after in my free time. I'm a Linux enthusiast comfortable with both Debian and Arch-based systems (Kubuntu, Ubuntu (+Server), Kali, CachyOS). I enjoy setting up and maintaining web servers, tinkering with databases, and building things from the ground up.
 
 I'm a practical problem-solver who enjoys turning ideas into working software. When a project catches my interest and I have the time, I'm always open to collaborating. Don't hesitate to get in touch — worst case, we have a nice chat about code.
 
