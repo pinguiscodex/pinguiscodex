@@ -50,7 +50,7 @@ I'm currently open to freelance opportunities. If you need a developer who can t
 
 ## Let's Connect
 
-**Email** [pengu@sky-network.org](mailto:pengu@sky-network.org) <br>
-**Discord** `pinguiscodex`
+**Email** | [pengu@sky-network.org](mailto:pengu@sky-network.org) <br>
+**Discord** | `pinguiscodex`
 
 ---
