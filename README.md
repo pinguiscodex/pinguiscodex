@@ -6,9 +6,9 @@ I'm **pinguiscodex** — a Junior Full-Stack Developer from Leipzig, Saxony, Ger
 
 ## About Me
 
-I'm the Lead (and sole) Full-Stack Developer maintaining two websites — one for **Die Kochbullen**, a restaurant here in Leipzig, and another for the **Spielewerkstatt**, a youth gaming workshop at the VILLA Leipzig that I look after in my free time. I'm a Linux enthusiast comfortable with both Debian and Arch-based systems (Kubuntu, Ubuntu (+Server), Kali, CachyOS). I enjoy setting up and maintaining web servers, tinkering with databases, and building things from the ground up.
+I'm the Lead (and sole) Full-Stack Developer maintaining two websites — one for **Die Kochbullen**, a restaurant here in Leipzig, and another for the **Spielewerkstatt**, a youth gaming workshop at the VILLA Leipzig that I look after in my free time. I'm a Linux enthusiast comfortable with both Debian and Arch-based systems (Kubuntu, Ubuntu (+Server), Kali, CachyOS).
 
-I'm a practical problem-solver who enjoys turning ideas into working software. When a project catches my interest and I have the time, I'm always open to collaborating. Don't hesitate to get in touch — worst case, we have a nice chat about code.
+I'm a enjoy turning fun ideas into working software.
 
 ---
 
@@ -36,8 +36,6 @@ I'm a practical problem-solver who enjoys turning ideas into working software. W
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-
-> *Also explored **C++** and **C#** through coursework — still getting comfortable with them, but always learning.*
 
 ---
 
